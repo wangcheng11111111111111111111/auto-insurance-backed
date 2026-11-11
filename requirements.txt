@@ -1,0 +1,14 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+pydantic>=2.5.0
+openpyxl>=3.1.0
+httpx>=0.26.0
+openai>=1.30.0
+aiomysql>=0.2.0
+redis[hiredis]>=5.0.0
+qdrant-client>=1.9.0
+SQLAlchemy>=2.0.0
+asyncmy>=0.2.9
+cryptography>=42.0.0
